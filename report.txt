@@ -1,0 +1,22 @@
+==============================
+LAPORAN STATISTIK FILE SISTEM
+==============================
+Tanggal: Tue Nov 11 05:25:51 PM WIB 2025
+ 
+Jumlah File dan Directori:
+13
+Ukuran total directori:
+775M	.
+ 
+10 file terbesar:
+274M	./.local/share/Trash/files/snap/firefox/common/.mozilla/firefox/66mropp2.default/storage/default/https+++web.whatsapp.com/idb/2181795718meogdaerlo-ts.sqlite
+64M	./snap/firefox/common/.mozilla/firefox/ihca3qt4.default/storage/default/https+++web.whatsapp.com/idb/2181795718meogdaerlo-ts.sqlite
+17M	./.local/share/Trash/files/snap/firefox/common/.mozilla/firefox/66mropp2.default/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqlite
+12M	./.local/share/Trash/files/snap/firefox/common/.cache/mozilla/firefox/66mropp2.default/cache2/entries/DEC4B059F239C12A295872FF1D7267A50282B6E3
+12M	./.local/share/Trash/files/snap/firefox/common/.cache/mozilla/firefox/66mropp2.default/cache2/entries/2D0BE5DB154A3DFA7E5AF15E03E71EE6C17C5E6F
+11M	./snap/firefox/common/.cache/mozilla/firefox/ihca3qt4.default/startupCache/scriptCache.bin
+11M	./.local/share/Trash/files/snap/firefox/common/.mozilla/firefox/66mropp2.default/storage/default/https+++web.whatsapp.com/idb/1773850371fetgsa-rsot.sqlite
+11M	./.local/share/Trash/files/snap/firefox/common/.cache/mozilla/firefox/66mropp2.default/startupCache/scriptCache-current.bin
+11M	./.local/share/Trash/files/snap/firefox/common/.cache/mozilla/firefox/66mropp2.default/startupCache/scriptCache.bin
+11M	./.local/share/Trash/files/snap.2/firefox/common/.cache/mozilla/firefox/sozu2aot.default/startupCache/scriptCache.bin
+==============================
