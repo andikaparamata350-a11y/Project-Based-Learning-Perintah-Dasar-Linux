@@ -12,7 +12,7 @@ echo "isi" > logs5.log
 echo "isi" > arc1.zip
 ls
 
-#Scirp organisasi file
+#Script organisasi file
 find . -type f -name "*txt" -exec mv {} documents/ \;
 find . -type f -name "*jpeg" -exec cp {} images/ \;
 find . -type f -name "*zip" -exec mv {} archives/ \;
