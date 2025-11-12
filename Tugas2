@@ -1,0 +1,14 @@
+andika@andika-VirtualBox:~$ ls 
+archives images img2.jpeg img4.2.jpeg laporan.hs Pictures documents ing1.jpeg ing3.jpeg ing5.2.jpeg logs report.txt
+andika@andika-VirtualBox:~$ mkdir project_sisten_operasi_D 
+andika@andika-VirtualBox:~$ ls
+report.txt A archives images img2.jpeg img4.2.jpeg laporan.hs Pictures snap report.txt project_sisten_operasi D snap documents ing1.jpeg ing3.jpeg img5.2.jpeg logs project_sisten_operasi_D snap 
+andika@andika-VirtualBox:~$ cd project_sisten_operasi_D 
+andika@andika-VirtualBox:~/project_sistem_operasi_D$ mkdir src doc data 
+andika@andika-VirtualBox:~/project_sistem_operasi_D$ ls
+data doc src
+andika@andika-VirtualBox:~/project_sistem_operasi_D$ touch README.md src/main.sh 
+andika@andika-VirtualBox:~/project_sistem_operasi_D$ ls
+data doc README.md src
+andika@andika-VirtualBox:~/project_sistem_operasi_D$ du -sh
+16K
